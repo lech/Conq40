@@ -1,0 +1,1 @@
+srcds.exe +mp_coop_lobbysize 8 +maxplayers 48 -console -port 27015 +exec server.cfg +map market conquer
