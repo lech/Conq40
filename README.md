@@ -21,15 +21,16 @@ A decent enough server for hosting 8 players and 40 bots.
 - Bots respond to objectives from further away, expect resistance.
 
 ## Work in progress
-- I want bots with RPGs be firing at closer range on single players instead of only into groups. I'm still trying to figure out these settings and fine-tune them for closer RPG responses. Why? Because surprise, you blew up!
+- I want bots with a RPG to fire upon single players at close range instead of just at groups at medium/long ranges. I'm still trying to fine-tune these settings for a closer, potentially point-blank RPG responses. Why? Because surprise, you blew up!
 
 ## Installation
 
 - MAKE A BACKUP of your current configuration. Vanilla or otherwise.
 - DON'T BE STUPID. CHANGE THE DEFAULT RCON PASSWORD!
 - Copy, paste and edit the files you need into their appropriate directories.
+- See http://ins.jballou.com/cvarlist.php if you have doubts for any of the config settings.
 
-## Bugs and other known issues
+## Bugs and known issues
 
 - If you're running on a shared host, you may notice stutter and this might not run so well. If that happens you may want to scale back the number of bots or opt for a better host. Preferably the latter.
 - On map change, loading the next map may throw a ``Host_Error: CL_ReadPreserveEnt: u.m_nNewEntity == MAX_EDICTS || u.m_nNewEntity < 0`` error on the client if the server hosted on Windows dedicated server (not fully tested under *nix yet). Not quite sure what's causing this, but reconnecting to the server works.
