@@ -8,6 +8,7 @@ kandagal conquer
 ministry conquer
 peak conquer
 revolt conquer
+siege conquer
 siege_coop conquer
 sinjar conquer
 station conquer
