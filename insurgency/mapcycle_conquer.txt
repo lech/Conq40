@@ -8,7 +8,6 @@ kandagal conquer
 ministry conquer
 peak conquer
 revolt conquer
-siege conquer
 sinjar conquer
 station conquer
 tell conquer
