@@ -8,6 +8,7 @@ A decent enough server for hosting 8 players and 40 bots.
 
 ## Current features
 - There are no points awarded for failure.
+- Bots do 2 damage instead of 0.6.
 - Human players start with 13 supply points.
 - Bots start with 28 supply points.
 - Voting is limited to kicking players and map changes only.
