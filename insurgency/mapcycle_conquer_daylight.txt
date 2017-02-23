@@ -1,17 +1,35 @@
-market conquer
 buhriz conquer
+
 contact conquer
+
 district conquer
+
 embassy conquer
+
 heights conquer
+
 kandagal conquer
+
+market conquer
+
 ministry conquer
+
+panj conquer
+
 peak conquer
+
 revolt conquer
+
 siege conquer
-siege_coop conquer
+
 sinjar conquer
+
 station conquer
+
 tell conquer
+
+tell_coop conquer
+
 uprising conquer
+
 verticality conquer
