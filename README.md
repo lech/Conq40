@@ -6,6 +6,7 @@ This is a very punishing, _ultra-brutal_ configuration for the Insurgency Conque
 
 __Server__
 
+- The `server.cfg` should serve as a working _example only_, you should be able to incorporate most of these settings into your existing configs with minimal effort.
 - Voting is limited to map changes, kicking and muting players only.
 - The dead can talk and type to the living, this serves to help the living die faster.
 - Currently the map cycle is set for daylight maps only. If you can win a map with pistols only on night mode without cheating, I salute you.
