@@ -23,7 +23,6 @@ __Bots__
 - Because 40 is the theme, bots start with 40 supply points.
 - Bots do full damage, so don't stand behind paper thin walls.
 - RPG equipped bots will fire on single players at shorter ranges
-- Increased response ranges. Reinforcements are always moving your way when you so much as think about taking an objective.
 - Destroying all caches doesn't reduce the bot population to zero, it only reduces them by 25%. 30 versus 40 bots, only slightly easier.
 
 __Environment and Gameplay__
