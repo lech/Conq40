@@ -4,8 +4,6 @@ district conquer
 
 embassy conquer
 
-heights conquer
-
 market conquer
 
 ministry conquer
