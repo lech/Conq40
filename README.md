@@ -6,7 +6,7 @@ This is a very punishing, _ultra-brutal_ configuration for the Insurgency Conque
 
 __Server__
 
-- The `server.cfg` should serve as a working _example only_, you should be able to incorporate most of these settings into your existing configs with minimal effort.
+- The `server.cfg` should serve as a _working example_ only, you should be able to incorporate most of these settings into your existing configs with minimal effort.
 - Voting is limited to map changes, kicking and muting players only.
 - The dead can talk and type to the living, this serves to help the living die faster.
 - Currently the map cycle is set for daylight maps only. If you can win a map with pistols only on night mode without cheating, I salute you.
@@ -22,15 +22,15 @@ __Bots__
 - 40 bots set to brutal at start.
 - Because 40 is the theme, bots start with 40 supply points.
 - Bots do full damage, so don't stand behind paper thin walls.
-- RPG equipped bots will fire on single players at shorter ranges
-- Destroying all caches doesn't reduce the bot population to zero, it only reduces them by 25%. 30 versus 40 bots, only slightly easier.
+- RPG equipped bots will fire on single players at shorter ranges.
+- Destroying all caches doesn't eliminate the bot population as in normal games. Instead, it only reduces their numbers and angers them.
 
 __Environment and Gameplay__
 
-- Explosive damage models have been modified to be more deadly, you are now truly subject to your own stupidity.
+- Explosive damage models have been modified to make explosions far more deadly, you are now truly subject to your own stupidity.
 - The RPG, grenade and cache explosion radius is larger - Dump and run or prepare to take a flying dirt nap.
 - Caches take 4x more damage to destroy - 800 points versus the default of 200.
-- The time it takes to capture an objective is double - 1.5 Minutes vs 45 seconds.
+- The time it takes to capture an objective is double - 1.5 Minutes vs 45 seconds making holdouts stressful.
 
 ## Requirements
 
