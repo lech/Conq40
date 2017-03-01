@@ -13,7 +13,7 @@
 	{
 		"precache"
 		{
-			//	default	theater	specific	sounds
+			// default theater specific sounds
 			"sounds" "scripts/ins_sounds_weapons.txt"
 			"sounds" "scripts/ins_sounds_cues.txt"
 			"sounds" "scripts/ins_sounds_voice.txt"
@@ -82,6 +82,7 @@
 				"weapon_upgrade" "barrel_silencer_integrated"
 				"weapon_upgrade" "underbarrel_bipod"
 				"weapon_upgrade" "underbarrel_bipod"
+				"weapon_upgrade" "magazine_drum_75rd"
 			}
 			"cost_modifiers"
 			{
@@ -190,6 +191,7 @@
 				"weapon" "weapon_sterling"
 				"weapon" "weapon_mk18"
 				"weapon" "weapon_m4a1"
+				"weapon" "weapon_galil_sar"
 				"weapon" "weapon_aks74u"
 				"weapon" "weapon_m84"
 				"weapon" "weapon_m18"
@@ -207,6 +209,7 @@
 				"weapon_upgrade" "barrel_silencer_integrated"
 				"weapon_upgrade" "underbarrel_bipod"
 				"weapon_upgrade" "underbarrel_bipod"
+				"weapon_upgrade" "magazine_drum_75rd"
 			}
 		}
 		"template_designated_marksman_security_coop"
@@ -241,6 +244,7 @@
 			{
 				"weapon" "weapon_mini14"
 				"weapon" "weapon_m14"
+				"weapon" "weapon_galil_sar"
 				"weapon" "weapon_m16a4"
 				"weapon" "weapon_sks"
 				"weapon" "weapon_l1a1"
@@ -257,6 +261,7 @@
 				"weapon_upgrades" "underbarrel_bipod"
 				"weapon_upgrade" "underbarrel_foregrip_ins2"
 				"weapon_upgrade" "underbarrel_woodgrip"
+				"weapon_upgrade" "magazine_drum_75rd"
 			}
 
 			"cost_modifiers"
@@ -319,6 +324,7 @@
 				"weapon_upgrade" "underbarrel_woodgrip"
 				"weapon_upgrade" "underbarrel_bipod"
 				"weapon_upgrade" "underbarrel_bipod"
+				"weapon_upgrade" "magazine_drum_75rd"
 			}
 			"cost_modifiers"
 			{
@@ -434,6 +440,7 @@
 				"weapon" "weapon_m14"
 				"weapon" "weapon_sks"
 				"weapon" "weapon_mosin"
+				"weapon" "weapon_galil_sar"
 				"weapon" "weapon_l1a1"
 				"weapon" "weapon_m18"
 				"weapon" "weapon_anm14"
@@ -447,6 +454,7 @@
 				"weapon_upgrade" "barrel_silencer_integrated"
 				"weapon_upgrade" "underbarrel_bipod"
 				"weapon_upgrade" "underbarrel_bipod"
+				"weapon_upgrade" "magazine_drum_75rd"
 			}
 			"cost_modifiers"
 			{
@@ -487,6 +495,7 @@
 				"weapon" "weapon_ump45"
 				"weapon" "weapon_m590"
 				"weapon" "weapon_m4a1"
+				"weapon" "weapon_galil_sar"
 				"weapon" "weapon_m16a4"
 				"weapon" "weapon_ak74"
 				"weapon" "weapon_mp5"
@@ -508,6 +517,7 @@
 				"weapon_upgrade" "barrel_silencer_integrated"
 				"weapon_upgrade" "underbarrel_bipod"
 				"weapon_upgrade" "underbarrel_bipod"
+				"weapon_upgrade" "magazine_drum_75rd"
 			}
 			"cost_modifiers"
 			{
@@ -560,6 +570,7 @@
 				"weapon" "weapon_m84"
 				"weapon" "weapon_m18"
 				"weapon" "weapon_anm14"
+				"weapon" "weapon_rpg7"
 			}
 		}
 		"template_coop_fighter"
@@ -596,6 +607,7 @@
 				"weapon" "weapon_molotov"
 				"weapon" "weapon_m84"
 				"weapon" "weapon_m18"
+				"weapon" "weapon_rpg7"
 			}
 		}
 		"template_coop_machinegunner"
@@ -627,6 +639,7 @@
 				"weapon" "weapon_akm"
 				"weapon" "weapon_m84"
 				"weapon" "weapon_m18"
+				"weapon" "weapon_rpg7"
 			}
 		}
 		"template_coop_sapper"
@@ -694,6 +707,7 @@
 				"weapon" "weapon_akm"
 				"weapon" "weapon_m84"
 				"weapon" "weapon_m18"
+				"weapon" "weapon_rpg7"
 			}
 		}
 		//
