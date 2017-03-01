@@ -1,8 +1,9 @@
-Chicago | ULTRA-BRUTAL - Hosted by tehOMGfather
-Conq40.clanservers.com @ attempting 40 brutal bots.
+Chicago | Conq40 ULTRA-BRUTAL | !Dev Server!
 
-Everything is more deadly here. Prepare to die. A lot.
+- There is no reward for failure. 15 supply to start.
+- 90 Second capture times with 40 oppressively brutal bots.
+- RPG bots don't care. Caches take 4x more damage to destroy.
+- Everything is more deadly here. Prepare to die. A lot.
 
-Rules: No step on Doug. Don't be a dick. No step.
-
-Get this config @ https://github.com/lech/Conq40
+- Rules: No step on Doug. Don't be a dick. No step.
+- Get this config @ https://github.com/lech/Conq40
