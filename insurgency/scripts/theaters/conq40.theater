@@ -1,7 +1,7 @@
 "#base" "base_player.theater"
-"#base" "base_common_ammo_test.theater"
+"#base" "base_common_ammo.theater"
 
-"#base" "default_gear_test.theater"
+"#base" "default_gear.theater"
 "#base" "default_weapon.theater"
 "#base" "default_weapon_upgrades.theater"
 
@@ -23,12 +23,10 @@
 			"sounds" "scripts/ins_sounds_responses_insurgent.txt"
 			"sounds" "scripts/ins_sounds_hq.txt"
 
-			//	coop	specific
+			// coop specific
 			"sounds" "scripts/ins_sounds_voice_coop.txt"
 		}
 	}
-
-
 	"player_templates"
 	{
 		"template_rifleman_security_coop"
@@ -69,6 +67,7 @@
 				"weapon" "weapon_ak74"
 				"weapon" "weapon_m84"
 				"weapon" "weapon_m18"
+				"weapon_upgrade" "magazine_drum_75rd"
 				"weapon_upgrade" "underbarrel_foregrip_sec1"
 				"weapon_upgrade" "underbarrel_foregrip_sec2"
 				"weapon_upgrade" "underbarrel_foregrip_ins1"
@@ -81,8 +80,6 @@
 				"weapon_upgrade" "barrel_silencer_heavy"
 				"weapon_upgrade" "barrel_silencer_integrated"
 				"weapon_upgrade" "underbarrel_bipod"
-				"weapon_upgrade" "underbarrel_bipod"
-				"weapon_upgrade" "magazine_drum_75rd"
 			}
 			"cost_modifiers"
 			{
@@ -191,11 +188,12 @@
 				"weapon" "weapon_sterling"
 				"weapon" "weapon_mk18"
 				"weapon" "weapon_m4a1"
-				"weapon" "weapon_galil_sar"
 				"weapon" "weapon_aks74u"
 				"weapon" "weapon_m84"
 				"weapon" "weapon_m18"
 				"weapon" "weapon_anm14"
+				"weapon" "weapon_galil_sar"
+				"weapon_upgrade" "magazine_drum_75rd"
 				"weapon_upgrade" "underbarrel_foregrip_sec1"
 				"weapon_upgrade" "underbarrel_foregrip_sec2"
 				"weapon_upgrade" "underbarrel_foregrip_ins1"
@@ -209,7 +207,6 @@
 				"weapon_upgrade" "barrel_silencer_integrated"
 				"weapon_upgrade" "underbarrel_bipod"
 				"weapon_upgrade" "underbarrel_bipod"
-				"weapon_upgrade" "magazine_drum_75rd"
 			}
 		}
 		"template_designated_marksman_security_coop"
@@ -244,12 +241,13 @@
 			{
 				"weapon" "weapon_mini14"
 				"weapon" "weapon_m14"
-				"weapon" "weapon_galil_sar"
 				"weapon" "weapon_m16a4"
 				"weapon" "weapon_sks"
 				"weapon" "weapon_l1a1"
 				"weapon" "weapon_m18"
 				"weapon" "weapon_anm14"
+				"weapon" "weapon_galil_sar"
+				"weapon_upgrade" "magazine_drum_75rd"
 				"weapon_upgrade" "optic_scope_mk4"
 				"weapon_upgrade" "barrel_silencer_sec1"
 				"weapon_upgrade" "barrel_silencer_sec2"
@@ -261,7 +259,6 @@
 				"weapon_upgrades" "underbarrel_bipod"
 				"weapon_upgrade" "underbarrel_foregrip_ins2"
 				"weapon_upgrade" "underbarrel_woodgrip"
-				"weapon_upgrade" "magazine_drum_75rd"
 			}
 
 			"cost_modifiers"
@@ -311,6 +308,8 @@
 				"weapon" "weapon_galil_sar"
 				"weapon" "weapon_c4_clicker"
 				"weapon" "weapon_anm14"
+				"weapon" "weapon_galil_sar"
+				"weapon_upgrade" "magazine_drum_75rd"
 				"weapon_upgrade" "barrel_silencer_sec1"
 				"weapon_upgrade" "barrel_silencer_sec2"
 				"weapon_upgrade" "barrel_silencer_pistol"
@@ -324,13 +323,12 @@
 				"weapon_upgrade" "underbarrel_woodgrip"
 				"weapon_upgrade" "underbarrel_bipod"
 				"weapon_upgrade" "underbarrel_bipod"
-				"weapon_upgrade" "magazine_drum_75rd"
 			}
 			"cost_modifiers"
 			{
 				"gear"
 				{
-					"sec_heavy_armor" "-2"
+					"sec_heavy_armor"	"-2"
 				}
 				"weapon_upgrade"
 				{
@@ -440,10 +438,11 @@
 				"weapon" "weapon_m14"
 				"weapon" "weapon_sks"
 				"weapon" "weapon_mosin"
-				"weapon" "weapon_galil_sar"
 				"weapon" "weapon_l1a1"
 				"weapon" "weapon_m18"
 				"weapon" "weapon_anm14"
+				"weapon" "weapon_galil_sar"
+				"weapon_upgrade" "magazine_drum_75rd"
 				"weapon_upgrade" "optic_scope_mk4"
 				"weapon_upgrade" "optic_scope_7x"
 				"weapon_upgrade" "barrel_silencer_sec1"
@@ -454,7 +453,6 @@
 				"weapon_upgrade" "barrel_silencer_integrated"
 				"weapon_upgrade" "underbarrel_bipod"
 				"weapon_upgrade" "underbarrel_bipod"
-				"weapon_upgrade" "magazine_drum_75rd"
 			}
 			"cost_modifiers"
 			{
@@ -482,6 +480,7 @@
 			}
 
 			"buy_order"
+
 			{
 				"gear" "sec_heavy_armor"
 				"gear" "sec_chest_carrier"
@@ -495,7 +494,6 @@
 				"weapon" "weapon_ump45"
 				"weapon" "weapon_m590"
 				"weapon" "weapon_m4a1"
-				"weapon" "weapon_galil_sar"
 				"weapon" "weapon_m16a4"
 				"weapon" "weapon_ak74"
 				"weapon" "weapon_mp5"
@@ -503,6 +501,8 @@
 				"weapon" "weapon_c4_clicker"
 				"weapon" "weapon_at4"
 				"weapon" "weapon_anm14"
+				"weapon" "weapon_galil_sar"
+				"weapon_upgrade" "magazine_drum_75rd"
 				"weapon_upgrade" "underbarrel_m203_he"
 				"weapon_upgrade" "underbarrel_m203_smoke"
 				"weapon_upgrade" "underbarrel_gp25_he"
@@ -517,7 +517,6 @@
 				"weapon_upgrade" "barrel_silencer_integrated"
 				"weapon_upgrade" "underbarrel_bipod"
 				"weapon_upgrade" "underbarrel_bipod"
-				"weapon_upgrade" "magazine_drum_75rd"
 			}
 			"cost_modifiers"
 			{
@@ -533,7 +532,7 @@
 		}
 
 		//
-		//	BEGIN	PLACEHOLDER	BOT	CLASS	TEMPLATES
+		// BEGIN PLACEHOLDER BOT CLASS TEMPLATES
 		//
 		"template_coop_specialist"
 		{
@@ -592,11 +591,11 @@
 			"buy_order"
 			{
 				"gear" "ins_light_armor"
-				//	"gear" "sec_chest_carrier"
+				// "gear" "sec_chest_carrier"
 				"weapon" "weapon_kabar"
 				"weapon" "weapon_akm"
 				"weapon_upgrade" "ammo_ap_akm"
-				//	"weapon_upgrade" "ins_foregrip"
+				// "weapon_upgrade"	"ins_foregrip"
 				"weapon" "weapon_molotov"
 			}
 			"allowed_items"
@@ -697,7 +696,7 @@
 				"weapon_upgrade" "ammo_ap_sks"
 				"weapon_upgrade" "4xscope_sks"
 				"weapon" "weapon_kabar"
-				//	"weapon" "weapon_makarov"
+				// "weapon" "weapon_makarov"
 			}
 			"allowed_items"
 			{
@@ -711,7 +710,7 @@
 			}
 		}
 		//
-		//	END	PLACEHOLDER	BOT	CLASS	TEMPLATES
+		// END PLACEHOLDER BOT CLASS TEMPLATES
 		//
 	}
 
@@ -720,18 +719,18 @@
 		"weapon_m16a4"
 		{
 			"weapon_cost" "1"
-			"team_access" "security,	insurgent"
+			"team_access" "security, insurgent"
 			"class_restricted" "1"
 		}
 
 		"weapon_model10"
 		{
-			"team_access" "security,	insurgent"
+			"team_access" "security, insurgent"
 		}
 
 		"weapon_m9"
 		{
-			"team_access" "security,	insurgent"
+			"team_access" "security, insurgent"
 		}
 
 		"weapon_mk18"
@@ -772,14 +771,14 @@
 		"weapon_akm"
 		{
 			"weapon_cost" "3"
-			"team_access" "security,	insurgent"
+			"team_access" "security, insurgent"
 			"class_restricted" "1"
 		}
 
 		"weapon_ak74"
 		{
 			"weapon_cost" "2"
-			"team_access" "security,	insurgent"
+			"team_access" "security, insurgent"
 			"class_restricted" "1"
 		}
 
@@ -813,16 +812,16 @@
 	{
 		"optic_kobra"
 		{
-			"team_access" "security,	insurgent"
+			"team_access" "security, insurgent"
 		}
 
 		"optic_po4x24"
 		{
-			"team_access" "security,	insurgent"
+			"team_access" "security, insurgent"
 
 			"allowed_weapons"
 			{
-				//	insurgent	weapons
+				// insurgent weapons
 				"weapon" "weapon_akm"
 				"weapon" "weapon_ak74"
 				"weapon" "weapon_aks74u"
@@ -836,7 +835,7 @@
 				"weapon" "weapon_sks"
 				"weapon" "weapon_sterling"
 
-				//	security	weapons
+				// security weapons
 				"weapon" "weapon_m16a4"
 				"weapon" "weapon_m249"
 				"weapon" "weapon_m40a1"
@@ -845,7 +844,7 @@
 				"weapon" "weapon_mp5"
 				"weapon" "weapon_ump45"
 
-				//	team	agnostic
+				// team agnostic
 				"weapon" "weapon_galil"
 			}
 		}

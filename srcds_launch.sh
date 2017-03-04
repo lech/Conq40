@@ -1,0 +1,1 @@
+ ./my_wrapper.sh -game insurgency +maxplayers 10 -console -ip @SERVERIP -port @SERVERPORT +map "drycanal conquer" +exec server.cfg +mp_teamplay 1 +sv_pure 0 -noreplay -secure -workshop
