@@ -1,2 +1,1 @@
-srcds.exe +mp_coop_lobbysize 8 +maxplayers 48 -console -port 27015 +exec server.cfg +mp_teamplay 1 +map "drycanal conquer" +sv_pure 0 -noreplay -secure -workshop
- 
+srcds.exe -port 27015 +maxplayers 10 -console -noreplay -secure +exec server.cfg +sv_pure 0 +mp_coop_lobbysize 8 +map "drycanal conquer" - workshop
