@@ -1,0 +1,1 @@
+./wrapper.sh -game insurgency +maxplayers 10 -console -ip @SERVERIP -port @SERVERPORT +map heights +exec server.cfg
