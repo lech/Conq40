@@ -1,9 +1,9 @@
 Conq 40 - Chicago | DEV Server | Ultra-Brutal | 40 Bots.
 
-- There is no reward for failure. 15 supply to start.
-- 90 Second capture times with 40 oppressively brutal bots.
-- RPG bots don't care. Caches take 4x more damage to destroy.
-- Everything is more deadly here. Prepare to die. A lot.
+- There is no reward for failure. 15 supply points, 17 minutes.
+- 66.6 second point times against 40 unrelenting bots on brutal.
+- Map changes after 666 rounds or victory. Welcome to hell.
+- Reinforced caches. Everything is more deadly here. Prepare to die. A lot.
 
 - Rules: No step on Doug. Don't be a dick. No step.
 - Get this config @ https://github.com/lech/Conq40
